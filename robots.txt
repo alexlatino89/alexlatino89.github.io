@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /viral-score/app.html
+Disallow: /viral-score/login.html
+Disallow: /viral-influencer/app.html
+Disallow: /viral-influencer/login.html
+
+Sitemap: https://alexlatino.com/sitemap.xml
